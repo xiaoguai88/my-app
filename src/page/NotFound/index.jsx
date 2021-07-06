@@ -1,4 +1,7 @@
+import style from './index.less';
+
 const NotFound = () => {
-    return <>404!!!</>
-}
-export default NotFound
+  console.log('...');
+  return <div className={style.nopage}>404!!!</div>;
+};
+export default NotFound;

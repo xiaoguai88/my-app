@@ -1,0 +1,10 @@
+body {
+  margin: 100px auto;
+}
+.login {
+  width: 350px;
+  height: 280px;
+  background: skyblue;
+  background: url('https://gw.alipayobjects.com/mdn/rms_8821b3/afts/img/A*1nrNTooRweIAAAAAAAAAAAAAARQnAQ') no-repeat;
+  background-size: 100% 100%;
+}

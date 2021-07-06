@@ -16,4 +16,5 @@ module.exports = {
       experimentalObjectRestSpread: true,
     },
   },
+  "no-console": 1, //禁止使用console
 };
